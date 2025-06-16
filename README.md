@@ -18,17 +18,12 @@ This project involves :
 
 ## This repository is an excellent resource for professionals and students looking to showcase expertise in :
 
-   SQL Development
-   
-   Data Architecture
-   
-   Data Engineering
-   
-   ETL Pipelining Developer
-   
-   Data Modeling
-   
-   Data Analytics
+ .  SQL Development
+ .  Data Architecture
+ .  Data Engineering
+ .  ETL Pipelining Developer
+ .  Data Modeling
+ . Data Analytics
 
  ---
    

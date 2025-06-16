@@ -18,7 +18,7 @@ This project involves :
 ---
 ## This repository is an excellent resource for professionals and students looking to showcase expertise in :
 
- .  SQL Development
+ -> SQL Development
  
  .  Data Architecture
  
